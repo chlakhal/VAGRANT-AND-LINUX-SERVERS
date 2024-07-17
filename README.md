@@ -98,4 +98,3 @@ This project illustrates the flexibility and efficiency of using Vagrant to mana
 
 ---
 
-Feel free to customize this further as needed!
